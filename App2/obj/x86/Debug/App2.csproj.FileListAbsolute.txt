@@ -1,0 +1,84 @@
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\RatingPage.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\MainPage.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\TipAmountPage.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.xr.xml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.exe
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.pdb
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\resources.pri
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\AppxManifest.xml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\bin\x86\Debug\App2.build.appxrecipe
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.g.i.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.g.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\RatingPage.g.i.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\RatingPage.g.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.g.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\TipAmountPage.g.i.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\TipAmountPage.g.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.xaml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\TipAmountPage.xaml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\TipAmountPage.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\RatingPage.xaml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.xaml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\RatingPage.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MainPage.xbf
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App2.exe
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\App2.pdb
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\priconfig.xml
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\layout.resfiles
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\resources.resfiles
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\pri.resfiles
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\qualifiers.txt
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yochumj\documents\visual studio 2015\Projects\App2\App2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\App.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\RatingPage.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\MainPage.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\TipAmountPage.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\App2.xr.xml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\App2.exe
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\App2.pdb
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\resources.pri
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\AppxManifest.xml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\bin\x86\Debug\App2.build.appxrecipe
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\App.g.i.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\App.g.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\RatingPage.g.i.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\RatingPage.g.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\MainPage.g.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\TipAmountPage.g.i.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\TipAmountPage.g.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\App.xaml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\RatingPage.xaml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\MainPage.xaml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\TipAmountPage.xaml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\App.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\RatingPage.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\MainPage.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\TipAmountPage.xbf
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\App2.exe
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\App2.pdb
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\priconfig.xml
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\layout.resfiles
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\resources.resfiles
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\pri.resfiles
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\qualifiers.txt
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jeremy\Desktop\Yochum, Jeremy\App2\App2\obj\x86\Debug\ProjectArchitectures.txt

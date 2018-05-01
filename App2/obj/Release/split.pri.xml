@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="379df878-e78f-4869-a634-1b8bdc049b98" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App2.xr.xml" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/App2.xr.xml">
+				<Candidate type="Path">
+					<Value>App2.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RatingPage.xbf" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/RatingPage.xbf">
+				<Candidate type="Path">
+					<Value>RatingPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TipAmountPage.xbf" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/TipAmountPage.xbf">
+				<Candidate type="Path">
+					<Value>TipAmountPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FairTipper Icon Small_appicon.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/FairTipper%20Icon%20Small_appicon.png">
+					<Candidate type="Path">
+						<Value>Assets\FairTipper Icon Small_appicon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="FairTipper Icon Small.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/FairTipper%20Icon%20Small.png">
+					<Candidate type="Path">
+						<Value>images\FairTipper Icon Small.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FairTipper Logo White.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/FairTipper%20Logo%20White.png">
+					<Candidate type="Path">
+						<Value>images\FairTipper Logo White.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FairTipper Mug White.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/FairTipper%20Mug%20White.png">
+					<Candidate type="Path">
+						<Value>images\FairTipper Mug White.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="googleicon.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/googleicon.png">
+					<Candidate type="Path">
+						<Value>images\googleicon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Star White Filled.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/Star%20White%20Filled.png">
+					<Candidate type="Path">
+						<Value>images\Star White Filled.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Star White.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/Star%20White.png">
+					<Candidate type="Path">
+						<Value>images\Star White.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tripadvisoricon.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/tripadvisoricon.png">
+					<Candidate type="Path">
+						<Value>images\tripadvisoricon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="yelpicon.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/yelpicon.png">
+					<Candidate type="Path">
+						<Value>images\yelpicon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="zomatoicon.png" uri="ms-resource://379df878-e78f-4869-a634-1b8bdc049b98/Files/images/zomatoicon.png">
+					<Candidate type="Path">
+						<Value>images\zomatoicon.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

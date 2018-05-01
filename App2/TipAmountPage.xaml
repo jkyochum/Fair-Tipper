@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="App2.Page2"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#FFA22929">
+        <TextBlock x:Name="lblSuggestedTip" Margin="57,137,59,441" TextWrapping="Wrap" Text="Suggested Tip" IsHitTestVisible="False" FontSize="45" Foreground="White"/>
+        <AppBarButton x:Name="appBarButton" HorizontalAlignment="Stretch" Icon="Back" Label="" Margin="10,10,310,552" VerticalAlignment="Stretch" Click="appBarButton_Click"/>
+        <TextBlock x:Name="lblTipAmount" Margin="74,225,74,336" Text="$000.00" FontSize="55" HorizontalAlignment="Center"/>
+        <Button x:Name="btnRateExperience" Content="Rate Your Experience" HorizontalAlignment="Stretch" Margin="10,534.335,193.31,19.666" VerticalAlignment="Stretch" RenderTransformOrigin="0.5,0.5" Click="btnRateExperience_Click" UseLayoutRounding="False"/>
+
+    </Grid>
+</Page>
